@@ -8,8 +8,8 @@
 - Long-Wave Infrared (LWIR) thermal images
 
 By extracting and combining features from both sources, the model significantly improves recognition accuracy in real-world scenarios such as nighttime environments, harsh outdoor lighting, or when subjects wear masks.
+
 Refer: [HyperFace: A Deep Fusion Model for Hyperspectral Face Recognition](https://www.mdpi.com/2768380)
----
 
 ##  Features
 -  **HyperFacePipeline**: A modular pipeline including encoding, fusion, decoding, and face embedding.
