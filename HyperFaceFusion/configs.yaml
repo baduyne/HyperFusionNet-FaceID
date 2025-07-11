@@ -1,6 +1,6 @@
 model:
-    path: 'HyperFaceFusion/weights/hyperface_best_model.pth'
+  path: "./weights/hyperface_best_model.pth"
 embedding:
-    path: 'HyperFaceFusion/weights/embedding/database.json'
+  path: "./weights/embedding/database.json"
 threshold:
-    value: 0.7
+  value: 0.7
